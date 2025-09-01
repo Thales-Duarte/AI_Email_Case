@@ -1,4 +1,4 @@
-# Classificador de Emails com IA - Desafio AutoU
+# Classificador de Emails com IA 
 
 Aplicação web que utiliza a API da OpenAI para classificar emails como "Produtivo" ou "Improdutivo" e sugerir respostas automáticas.
 
